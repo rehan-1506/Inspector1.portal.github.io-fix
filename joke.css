@@ -1,0 +1,10 @@
+.joke-widget{max-width:520px;margin:1rem auto;padding:1rem;font-family:Inter,system-ui,Arial,sans-serif}
+.joke-title{margin:0 0 .5rem;font-size:1.05rem;color:#083055}
+.joke-card{background:#fff;border:1px solid #e6eef7;padding:1rem;border-radius:8px;box-shadow:0 1px 3px rgba(2,18,45,.04)}
+.joke-text{margin:0;color:#0b2540;font-size:1rem;min-height:3rem}
+.joke-actions{display:flex;gap:.5rem;margin-top:.6rem;align-items:center}
+.btn{background:#f3f6fb;border:1px solid #dbeaf8;padding:.45rem .6rem;border-radius:6px;cursor:pointer;color:#083055;text-decoration:none}
+.btn:hover{filter:brightness(.98)}
+.btn-primary{background:#0b63b6;color:#fff;border-color:#095a9f}
+.btn-outline{background:transparent;border:1px solid #0b63b6;color:#0b63b6}
+.btn[disabled]{opacity:.6;cursor:not-allowed}
